@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/item_zhihu"
+            android:checkable="true"
+            android:icon="@drawable/icon_zhihu"
+            android:title="知乎日报" />
+        <item
+            android:id="@+id/item_wangyi"
+            android:checkable="true"
+            android:icon="@drawable/icon_wangyi"
+            android:title="网易头条" />
+        <item
+            android:id="@+id/item_meizi"
+            android:checkable="true"
+            android:icon="@drawable/icon_meizi"
+            android:title="妹子图片" />
+    </group>
+</menu>
